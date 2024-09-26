@@ -16,7 +16,7 @@
                 <ol>
                     <li><a href="doc/EstudioTema1.pdf">DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
                     <li><a href="doc/EstudioTema2.pdf">CONFIGURACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
-                    <li>CARACTERÍSTICAS DEL LENGUAJE PHP</li>
+                    <li><a href="../208DWESProyectoTema3/indexProyectoTema3.php">CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
                     <li>TÉCNICAS DE ACCESO A DATOS EN PHP</li>
                     <li>DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</li>
                     <li>PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</li>
