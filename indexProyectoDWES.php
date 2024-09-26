@@ -3,7 +3,7 @@
 <html lang="es">
     <head>
         <meta charset="UTF-8">
-        <title>Index</title>
+        <title>Luis Ferreras</title>
         <link type="text/css" rel="stylesheet" href="webroot/estilos.css">
     </head>
     <body>
@@ -14,7 +14,7 @@
             <div>
                 <h2>Estudios</h2>
                 <ol>
-                    <li><a href="doc/EstudioTema1.pdf">DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                    <li>DESARROLLO WEB EN ENTORNO SERVIDOR</li>
                     <li><a href="doc/EstudioTema2.pdf">CONFIGURACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
                     <li><a href="../208DWESProyectoTema3/indexProyectoTema3.php">CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
                     <li>TÉCNICAS DE ACCESO A DATOS EN PHP</li>
@@ -26,9 +26,8 @@
             </div>
         </nav>
         <footer>
+            <a href="../index.html">Luis Ferreras</a>
             <a href="https://github.com/LuisFerrGon/208DWESProyectoDWES">GitHub</a>
-            <a href="../doc/Curriculum.pdf">Curriculum</a>
-            <a href="../index.html">Página anterior</a>
         </footer>
     </body>
 </html>
