@@ -14,8 +14,8 @@
             <div>
                 <h2>Estudios</h2>
                 <ol>
-                    <li><a href="doc/EstudioTema1.pdf">DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
-                    <li><a href="doc/EstudioTema2.pdf">CONFIGURACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
+                    <li><a href="doc/EstudioTema1.pdf" target="_blank">DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                    <li><a href="doc/EstudioTema2.pdf" target="_blank">CONFIGURACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
                     <li><a href="../208DWESProyectoTema3/indexProyectoTema3.php">CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
                     <li>TÉCNICAS DE ACCESO A DATOS EN PHP</li>
                     <li>DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</li>
