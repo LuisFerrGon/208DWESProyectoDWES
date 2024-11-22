@@ -1,0 +1,4 @@
+DirectoryIndex indexProyectoDWES.php
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://192.168.3.208/$1 [R,L]
